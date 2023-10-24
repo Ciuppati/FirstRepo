@@ -1,3 +1,9 @@
 # Hello world!
-print("A hell nah")
+word1 = "Hello"
+word2= "World"
+
+if word1 = "World":
+  print(f{word1 + " " + word2})
+else:
+  print("A hell nah")
 
