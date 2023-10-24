@@ -7,3 +7,4 @@ if word1 = "World":
 else:
   print("A hell nah")
 
+print("Test n°2")
